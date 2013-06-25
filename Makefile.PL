@@ -26,12 +26,11 @@ my %WriteMakefileArgs = (
     "HTML::Entities" => 0,
     "HTML::TokeParser::Simple" => 0,
     "Moose" => 0,
-    "RapidApp::Include" => 0,
     "namespace::autoclean" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => ""
   }
